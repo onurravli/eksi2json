@@ -1,0 +1,12 @@
+{
+  "name": "eksi2json",
+  "description": "eksi sozluk yedeklerinizi json'a cevirmeye yarayan hede.",
+  "author": {
+    "name": "Onur Ravli",
+    "email": "onur@onurravli.com",
+    "url": "https://onurravli.com"
+  },
+  "dependencies": {
+    "xml2js": "^0.6.2"
+  }
+}
