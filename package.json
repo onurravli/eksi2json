@@ -1,7 +1,7 @@
 {
   "name": "eksi2json",
   "description": "eksi sozluk yedeklerinizi json'a cevirmeye yarayan hede.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "Onur Ravli",
     "email": "onur@onurravli.com",
